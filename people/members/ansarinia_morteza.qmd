@@ -1,0 +1,44 @@
+---
+title: "Morteza Ansarinia"
+sortby: "2"
+subtitle: "PhD, Researcher"
+image: ../placeholder_blue.png
+started: "Fall 2024"
+toc: false
+resources: 
+  - "cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=GVsyMf8AAAAJ&hl=fr&oi=ao 
+    - icon: github
+      text: github
+      href: https://github.com/morteza
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Hello! 
+
+I'm *Morteza*, a researcher at the University of Luxembourg. I specialize in computational cognitive neuroscience and computer engineering, and enjoy working on projects that have an impact on aligning machines to human cognition (or the other way around).
+
+
+I conducted my PhD in Behavioral and Cognitive Sciences at the University of Luxembourg (Belval, Luxembourg) in partnership with Max Planck Institute for Human Cognitive and Brain Sciences (Leipzig, Germany); [my thesis](https://github.com/morteza/thesis) emphasizes a computationally grounded perspective on cognitive control in the human brain.
+
+
+I'm currently developing tools for automated scientific workflows and large-scale data lakehouses, specifically designed for multimodal cognitive data. My primary interest is resting-state brain--when the brain is not engaged in any specific task.

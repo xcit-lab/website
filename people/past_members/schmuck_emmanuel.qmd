@@ -1,0 +1,41 @@
+---
+title: "Emmanuel Schmück"
+sortby: "Schmück, Emmanuel"
+subtitle: "PhD Candidate"
+image: placeholder.png
+toc: false
+started: "NA"
+ended: "NA"
+resources: 
+  - "cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: file-earmark-text
+      text: vitae
+      href: ./people/staff/cv.pdf
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/
+    - icon: github
+      text: github
+      href: https://github.com/
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">PhD Candidates</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Hi!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

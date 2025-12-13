@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "xCIT"
+  description: "experimental Cognitive Interactive Technologies"
+  favicon: logos/favicon_gold.ico
+  site-url: https://xcit.org/
+  repo-url: https://github.com/xcit-lab
+  
+  navbar:
+    logo: logos/logo_white.png
+    logo-alt: "xCIT"
+    search: true
+    left:
+      - href: people.qmd
+        text: "People"
+      - href: projects.qmd
+        text: "Projects"
+      - href: labs.qmd
+        text: "Labs"
+      - href: publications.qmd
+        text: "Publications"
+      - href: teaching.qmd
+        text: "Teaching"
+      - href: resources.qmd
+        text: "Resources"
+
+  
+  page-footer:
+    center: "Copyright 2025, xCIT Lab"
+  
+  google-analytics: "UA-128269502-2"
+
+format:
+  html:
+    css: styles.css
+    toc: true
+    page-layout: article

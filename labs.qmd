@@ -1,0 +1,20 @@
+---
+title: "Labs & Facilities"
+---
+
+The xCIT research group runs cutting-edge facilities designed to support a wide range of research and development activities. From iterative design and prototyping to large-scale behavioral studies and computational analyses, our labs enable advanced work in cognitive science and digital technology development. The two labs run by the xCIT research group are the UserLab and the BehaverseLab. 
+
+
+
+### The UserLab
+The UserLab is part of the [Epsylon](https://www.uni.lu/fhse-en/facilities/epsylon/) network of research labs. It is a versatile space designed for user experience (UX) research and supports every stage of the iterative design process—from need analysis and ideation to prototyping and user testing. 
+
+By combining state-of-the-art technology in a welcoming environment, the UserLab supports a rich set of empirical approaches (e.g., interviews, user testing) and data collection methods (e.g., video recording, eye and movement tracking, physiological recordings). The UserLab therefore allows us to gain a very rich and detailed understanding of a situation, phenomenon, or user experience—albeit on a rather small scale.
+
+![](photos/UserLab_2.jpg)
+
+### The Behaverse-Lab
+
+While the UserLab is designed to gain deep insights from a limited number of participants, the xCIT-Lab is equipped for large-scale online studies. It comprises software and hardware to deploy online studies, collect and process large datasets—here benefiting in particular from the [University of Luxembourg's High Performance Computers](https://hpc.uni.lu/). The Behaverse-Lab also supports the design and development of technologies, such as video games or software for automated data analyses. Finally, the Behaverse-Lab enables the exploration, prototyping, and experimentation with innovative technologies and hardware (e.g., exploring the potential use of edge devices to collect and process data for research and impact).
+
+

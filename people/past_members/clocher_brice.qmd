@@ -1,0 +1,29 @@
+---
+title: "Brice Clocher"
+sortby: "Clocher, Brice"
+subtitle: "Game designer and developer"
+image: clocher_brice.jpg
+toc: false
+started: "June 2017"
+ended: "January 2021"
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Bio
+Fascinated by digital media at a young age, Brice completed a M.Sc. in Computer Science and Engineering (INSA Lyon) with the firm intention to create experiences that are meaningful and benefit society. His belief in a holistic and multidisciplinary approach to creativity led him to hone his crafts in various European start-ups and universities, producing a wide range of digital systems from tangible crisis management tools to alternate reality games. After teaching game development as an artistic practice to design students, he co-funded a game studio (Bunny & Gnome) and released an educational game about trash sorting which won four awards and was exhibited in a digital art museum (Trash Monsters).

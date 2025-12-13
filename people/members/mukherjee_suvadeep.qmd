@@ -1,0 +1,45 @@
+---
+title: "Suvadeep Mukherjee"
+sortby: "Mukherjee, Suvadeep"
+subtitle: "PhD Candidate"
+image: ../placeholder_purple.png
+toc: false
+started: "July 2025"
+ended: "Current"
+resources: 
+  - "cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.iamsuvo.com/
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=BOmtS4sAAAAJ&hl=fr&oi=ao
+    - icon: github
+      text: github
+      href: https://github.com/svdpmukherjee
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Hi!
+
+I’m a doctoral researcher in psychology at the University of Luxembourg supervised by Prof. Cardoso-Leite. My work focuses on designing online examination systems that are both secure and user-friendly. We are designing digital strategies that effectively prevent student cheating during exams while upholding strong privacy protections and ensuring a smooth, positive test-taking experience - addressing key components of a fair and valid exam.
+
+I take an interdisciplinary, mixed-method approach to designing and testing behavioral interventions. Using realistic and interactive interfaces, I explore how these interventions influence students’ behavior, ultimately aiming to develop digital exam systems that are fair, effective and privacy-conscious.
+
+With my background in Computer Science and Human-Computer Interaction, designing digital solutions that meet real user needs is my sweet spot. I'm also an AI and data science enthusiast, passionate about integrating cutting-edge tech into systems that positively impact people's lives.

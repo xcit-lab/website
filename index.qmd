@@ -1,0 +1,34 @@
+---
+pagetitle: "xCIT"
+title: "Welcome to xCIT!" 
+subtitle: "*\"Advancing cognitive sciences, <br>improving people's lives*\""
+
+---
+
+
+
+
+
+
+We are [**xCIT**]{title="eXperimental Cognitive Interactive Technologies"}—a small, interdisciplinary research group at the University of Luxembourg that aims to advance cognitive sciences, using and developing innovative technologies for positive societal impact. 
+
+
+Together with our collaborators, we combine a broad range of skills and expertise, covering in particular, cognitive science, artificial intelligence, UX, software engineering, cybersecurity, game design and development. 
+
+We conduct experiments with human participants, using a wide range of instruments (e.g., cognitive tests, video games) and approaches (e.g., online computerized tests, brain imaging, interviews) to collect large and/or rich datasets. We then use a variety of data analytic methods to gain insights about various facets of the human mind.
+
+
+We also design and develop new technologies. This includes various interactive digital artefacts designed to collect data (e.g., questionnaires, cognitive assessments, video games), to affect people (e.g., cognitive training with video games) or to improve cognitive science research (e.g., defining behavioral data standards, studyflow modeler). To design, develop and validate those technologies we use again a large range of methods, tools and approaches, including for instance iterative design and user testing.  
+
+
+
+We tackle several ambitious long term projects, because we believe they are important and can have an impact. In particular we aim to build up critical capacities to scale up cognitive science research and take full advantage of modern AI tools. 
+
+
+We value collaboration, open science, and human-centered design. We believe that this unique mixed-method, interdisciplinary, open-science approach is critical if we are to make sense of our complex world and design interventions and tools that benefit humans.
+
+
+
+
+
+

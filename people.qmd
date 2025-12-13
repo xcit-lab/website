@@ -1,0 +1,45 @@
+---
+pagetitle: "People"
+toc: false
+listing:
+
+  - id: current_members
+    contents: 
+      - "people/pi/*.qmd"
+      - "people/members/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: left
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+
+
+  - id: past_members
+    contents: "people/past_members/*.qmd"
+    type: table
+    sort: sortby
+    fields: [title, subtitle, started, ended]
+    sort-ui: [title, subtitle, started, ended]
+    filter-ui: [title, subtitle, started, ended]
+    field-display-names: 
+      title: "Name"
+      subtitle: "Role"
+      started: "Started"
+      ended: "Ended"
+---
+
+
+
+## People
+
+:::{#current_members}
+:::
+
+
+## Past members (incomplete)
+
+:::{#past_members}
+:::

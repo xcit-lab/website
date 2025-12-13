@@ -1,0 +1,55 @@
+---
+title: "Hoorieh Afkari"
+sortby: "Afkari, Hoorieh"
+subtitle: "PhD, Researcher"
+image: ../placeholder_terra.png
+toc: false
+started: "July 2025"
+ended: "Current"
+resources: 
+  - "cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?hl=fr&user=IkRvFZkAAAAJ&view_op=list_works&sortby=pubdate
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## 1. Hello, I’m Hoorieh
+
+
+I explore the space where people meet technology. As an HCI researcher and R&D professional, I’m driven by a curiosity about human behavior and a passion for designing digital systems that respond to real needs, not just technical specs.
+
+
+## 2. What I’m Working On (and Why)
+
+Right now, at the University of Luxembourg, I explore how digital technologies can support and enhance human learning and behavior. At the heart of it, I care about impact: creating technology that makes a real difference in people’s lives.
+
+
+## 3. The Journey
+
+I completed my PhD in Human-Computer Interaction in Finland, focusing on medical technologies. My PhD thesis, The Potentials for Gaze-Based Interaction with the Surgical Microscope, is available [here](https://erepo.uef.fi/items/89d6fccc-3dc6-4ab2-9e6f-4eb0cb0aef7e). 
+
+Since then, I’ve worked in applied research and development across UX and digital tools; work that led me to Luxembourg, where I continue exploring how people interact with technology.
+
+
+## 4. Beyond Work
+
+Understanding people has always been more than just part of my work; it’s something I genuinely care about. That’s why I pursued a coaching certification at the University of Cambridge, where I’ve built on my skills in listening, empathy, and communication.
+Outside of work, I enjoy learning new languages, reading philosophy, and going for long walks. Traveling helps me see the world from different perspectives and reminds me how differently people live, think, and connect.

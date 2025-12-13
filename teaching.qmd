@@ -1,0 +1,24 @@
+
+---
+title: "Teaching"
+---
+
+
+We teach the following courses at the University of Luxembourg.
+
+ - Computational Cognitive Sciences
+ - Colloquium: Cognitive Sciences, Education and Assessment (COSEA)
+ - Designing Effective Data Visualizations
+ - Introduction to Programming in R
+ - Introduction to Data Science in R
+ - Structural Equation Modeling
+
+
+<!--
+## Workshops
+*Coming soon*
+
+## Student Research Projects
+*Coming soon*
+
+-->

@@ -1,0 +1,126 @@
+---
+title: "Publications"
+---
+
+This page was auto-generated using data from Google Scholar.
+
+### 2025
+
+Sonnleitner, P., Bernard, S., Michels, M.A. et al. (2025). Establishing Cognitive Item Models for Fair and Theory-Grounded Automatic Item Generation: A Large-Scale Assessment Study with Image-Based Math Items. *Applied Measurement in Education*, 1-23.
+
+Yu, H. & Cardoso-Leite, P. (2025). Prototyping Video Games for Understanding Abstract Concepts. *2025 IEEE Conference on Games (CoG)*, 1-4. [OA](https://ieeexplore.ieee.org/abstract/document/11114352/)
+
+Darriba, Á., Munnich, A., Cardoso-Leite, P. et al. (2025). Clinical and cognitive assessment in Friedreich ataxia clinical trials: a review. *Frontiers Media SA*, **16**, 1558493. [OA](https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2025.1558493/abstract)
+
+
+### 2024
+
+Mukherjee, S., Distler, V., Lenzini, G. et al. (2024). Balancing the perception of cheating detection, privacy and fairness: A mixed-methods study of visual data obfuscation in remote proctoring.. [OA](https://dl.acm.org/doi/abs/10.1145/3688459.3688474)
+
+Maquil, V., Afkari, H., Arend, B. et al. (2024). Analysis of coordination mechanisms during collaborative problem-solving on an interactive tabletop display. *Computer Supported Cooperative Work (CSCW)*, **33**(4), 1071-1113. [OA](https://link.springer.com/article/10.1007/s10606-023-09487-2)
+
+Paris, A., Labetoulle, A., Bezjak, S. et al. (2024). AI4T-Comparative European Evaluation Report.. [OA](https://hal.science/hal-04557981/)
+
+
+### 2023
+
+Sunnen, P., Arend, B., Heuser, S. et al. (2023). 'How Do We Move Back?'–A Case Study of Joint Problem-Solving at an Interactive Tabletop Mediated Activity. *Springer Nature Switzerland*, 149-162. [OA](https://link.springer.com/chapter/10.1007/978-3-031-34411-4_12)
+
+Yu, H. & Cardoso-Leite, P. (2023). Video games to study and improve collaboration skills.. [OA](https://dl.acm.org/doi/abs/10.1145/3573382.3616091)
+
+Ansarinia, M. (2023). Towards a Computational Model of General Cognitive Control Using Artificial Intelligence, Experimental Psychology and Cognitive Neuroscience.. [OA](https://orbilu.uni.lu/handle/10993/54481)
+
+FERNANDEZ, P.I.I., MICHELS, M.A., HORNUNG, C. et al. (2023). The impact of cognitive characteristics and image-based semantic embeddings on item difficulty. *Annual Meeting of the National Council on Measurement in Education*. [OA](https://orbilu.uni.lu/handle/10993/54881)
+
+Rad, M.S., Ansarinia, M. & Shafir, E. (2023). Temporary self-deprivation can impair cognitive control: Evidence from the Ramadan fast. *Personality and social psychology bulletin*, **49**(3), 415-428. [OA](https://journals.sagepub.com/doi/abs/10.1177/01461672211070385)
+
+Afkari, H. & Bednarik, R. (2023). Seize the moment: the role of scrub nurses' proactivity in microsurgical operating-room collaborations. *Behaviour & Information Technology*, **42**(10), 1640-1657. [OA](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2022.2093791)
+
+Maquil, V., Anastasiou, D., Afkari, H. et al. (2023). Establishing awareness through pointing gestures during collaborative decision-making in a wall-display environment.. [OA](https://dl.acm.org/doi/abs/10.1145/3544549.3585830)
+
+Farahzadi, Y., Ansarinia, M. & Kekecs, Z. (2023). Decoding Hypnotic Experience from Raw EEG using a Multi-Output Auto-Encoder.. [OA](https://openreview.net/pdf?id=WY4jzRcRrQ)
+
+Ansarinia, M. & Cardoso-Leite, P. (2023). CogPonder: Towards a Computational Framework of General Cognitive Control. *2023 Conference on Cognitive Computational Neuroscience*. [OA](https://openreview.net/pdf?id=gusqWhzQrp)
+
+Paris, A., Labetoulle, A., Chesné, J. et al. (2023). AI4T National Evaluation Report-France.. [OA](https://hal.science/hal-04556695/)
+
+
+### 2022
+
+MICHELS, M.A., HORNUNG, C., GAMO, S. et al. (2022). Validierung und psychometrische Analyse automatisch generierter Mathematikaufgaben im Bereich Zahlen und Operationen. *9. GEBF-Tagung*. [OA](https://orbilu.uni.lu/handle/10993/48947)
+
+MICHELS, M.A., HORNUNG, C., GAMO, S. et al. (2022). Validation and Psychometric Analysis of 32 cognitive item models spanning Grades 1 to 7 in the mathematical domain of numbers & operations. *Luxembourg Educational Research Association Conference 2022*. [OA](https://orbilu.uni.lu/handle/10993/52791)
+
+Castañón, S.H., Cardoso-Leite, P., Green, C.S. et al. (2022). Optimal learning under structural environmental uncertainty reveals inherent learning trade-offs. *44th Annual Meeting of the Cognitive Science Society: Cognitive Diversity, CogSci 2022*. [OA](https://experts.umn.edu/en/publications/optimal-learning-under-structural-environmental-uncertainty-revea)
+
+Ansarinia, M., Schrater, P. & Cardoso-Leite, P. (2022). Linking theories and methods in cognitive sciences via joint embedding of the scientific literature: The example of cognitive control. *arXiv preprint arXiv:2203.11016*. [OA](https://arxiv.org/abs/2203.11016)
+
+Anastasiou, D., Ion, R., Badea, V. et al. (2022). ENRICH4ALL: A first Luxembourgish BERT Model for a Multilingual Chatbot.. [OA](https://aclanthology.org/2022.sigul-1.27/)
+
+Vandenabeele, L., Afkari, H., Hermen, J. et al. (2022). Deborah: a web-based cross-device orchestration layer.. [OA](https://dl.acm.org/doi/abs/10.1145/3531073.3534483)
+
+Ansarinia, M., Clocher, B., Defossez, A. et al. (2022). Cogenv: A reinforcement learning environment for cognitive tests. *2022 Conference on Cognitive Computational Neuroscience*. [OA](https://2022.ccneuro.org/proceedings/0000205.pdf)
+
+Anastasiou, D., Ruge, A., Ion, R. et al. (2022). A machine translation-powered chatbot for public administration. *Proceedings of the 23rd Annual Conference of the European Association for Machine Translation*, 329-330. [OA](https://aclanthology.org/2022.eamt-1.54/)
+
+
+### 2021
+
+Maquil, V., Afkari, H., Arend, B. et al. (2021). Research Article Balancing Shareability and Positive Interdependence to Support Collaborative Problem-Solving on Interactive Tabletops.. [OA](https://www.academia.edu/download/97137745/6632420.pdf)
+
+Rad, M.S., Ansarinia, M. & Ginges, J. (2021). Ramadan, Risk-taking, and Cooperation in Resource Dilemmas: Communal Deprivation as a Cultural Response to Scarcity?.. [OA](https://scholar.google.com/scholar?cluster=16060152304872492914&hl=en&oi=scholarr)
+
+Sunnen, P., Arend, B., Heuser, S. et al. (2021). Orbitia–Gemeinsam auf Mission.. *University of Luxembourg, Esch-sur-Alzette, Unknown/unspecified*. [OA](https://orbilu.uni.lu/handle/10993/49666)
+
+Cardoso-Leite, P., Buchard, A., Tissieres, I. et al. (2021). Media use, attention, mental health and academic performance among 8 to 12 year old children. *PloS one*, **16**(11), e0259163. [OA](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259163)
+
+Fischbach, A., Greiff, S., CARDOSO-LEITE, P. et al. (2021). Digitalisierung der pädagogischen Diagnostik: Von Evolution zu Revolution. *University of Luxembourg, Esch-sur-Alzette, Luxembourg*. [OA](https://orbilu.uni.lu/bitstream/10993/49454/1/BB21_Fischbach-Greiff-et-al._D.pdf)
+
+Fischbach, A., Greiff, S., CARDOSO-LEITE, P. et al. (2021). Digitalisation du diagnostic pédagogique: De l'évolution à la révolution. *University of Luxembourg, Esch-sur-Alzette, Luxembourg*. [OA](https://orbilu.uni.lu/bitstream/10993/49452/1/BB21_Fischbach-Greiff-et-al._F.pdf)
+
+Maquil, V., Afkari, H., Arend, B. et al. (2021). Balancing Shareability and Positive Interdependence to Support Collaborative Problem‐Solving on Interactive Tabletops. *Advances in Human‐Computer Interaction*, **2021**(1), 6632420. [OA](https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/6632420)
+
+Castañón, S.H., Cardoso-Leite, P., Altarelli, I. et al. (2021). A mixture of generative models strategy helps humans generalize across tasks. *BioRxiv*, 2021.02. 16.431506. [OA](https://www.biorxiv.org/content/10.1101/2021.02.16.431506.abstract)
+
+
+### 2020
+
+Anastasiou, D., Afkari, H. & Maquil, V. (2020). "You move THIS!": Annotation of Pointing Gestures on Tabletop Interfaces in Low Awareness Situations. *Proceedings of LREC2020 Workshop" People in language, vision and the mind"(ONION2020)*, 22-27. [OA](https://aclanthology.org/2020.onion-1.4/)
+
+Cardoso-Leite, P., Ansarinia, M., Schmück, E. et al. (2020). Training cognition with video games.. [OA](https://academic.oup.com/edited-volume/34742/chapter-abstract/296564378?redirectedFrom=fulltext&utm_campaign=Oxford_Academic_Books_TrendMD_1&utm_content=Oxford_Academic_Books_1&utm_source=TrendMD&utm_medium=cpc)
+
+Defossez, A., Ansarinia, M., Clocher, B. et al. (2020). The structure of behavioral data. *arXiv preprint arXiv:2012.12583*. [OA](https://arxiv.org/abs/2012.12583)
+
+LEVY, J., MUSSACK, D., Brunner, M. et al. (2020). Tackling educational inequalities using school effectiveness measures. *(Semi) virtual LuxERA Conference 2020*. [OA](https://orbilu.uni.lu/handle/10993/44316)
+
+Afkari, H., Maquil, V. & Anastasiou, D. (2020). Exploring Opportunities of Tabletop Interfaces for Promoting and Analysing Collaboration.. *ETIS*. [OA](https://ceur-ws.org/Vol-2801/panel2.pdf)
+
+Sunnen, P., Arend, B., Heuser, S. et al. (2020). Developing an interactive tabletop mediated activity to induce collaboration by implementing design considerations based on cooperative learning principles. *Springer International Publishing*, 316-324. [OA](https://link.springer.com/chapter/10.1007/978-3-030-50729-9_45)
+
+Afkari, H., Maqui, V., Arend, B. et al. (2020). Designing different features of an interactive tabletop application to support collaborative problem-solving.. [OA](https://dl.acm.org/doi/abs/10.1145/3399715.3399953)
+
+Levy, J., Mussack, D., Brunner, M. et al. (2020). Contrasting classical and machine learning approaches in the estimation of value-added scores in large-scale educational data. *Frontiers in psychology*, **11**, 2190. [OA](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.02190/full)
+
+LEVY, J., MUSSACK, D., Brunner, M. et al. (2020). Can machine learning methods lead to more precise measures of school effectiveness? An application of various machine learning approaches in the estimation of school value-added scores. *12th Conference of the International Test Commission*. [OA](https://orbilu.uni.lu/handle/10993/42705)
+
+Cardoso-Leite, P., Joessel, A. & Bavelier, D. (2020). 18 Games for Enhancing Cognitive Abilities. *Handbook of game-based learning*, 437. [OA](https://books.google.com/books?hl=en&lr=&id=X2jKDwAAQBAJ&oi=fnd&pg=PA437&dq=info:JlwhEPJseGAJ:scholar.google.com&ots=KfGEw23mJq&sig=T_V4ma5U0EkF1Y0SH-n4tM9522M)
+
+AREND, B., SUNNEN, P., HEUSER, S. et al. (2020). 'Being a space mining crew': How participants jointly discover their complementary resources while engaging into a serious game at an interactive tabletop. *L. Gomez Chova, A. Lopez Martinez, I. Candel Torres: Proceedings, International Conference on Education and New Learning Technologies 2020*. [OA](https://orbilu.uni.lu/bitstream/10993/43955/1/edulearn20)
+
+
+### 2019
+
+Mussack, D., Flemming, R., Schrater, P. et al. (2019). Towards discovering problem similarity through deep learning: combining problem features and user behavior.. *Proceedings of the 12th international conference on educational data mining (EDM 2019)*. [OA](https://orbilu.uni.lu/bitstream/10993/46719/1/mussack2019.pdf)
+
+Schmück, E., Flemming, R., Schrater, P. et al. (2019). Principles underlying the design of a cognitive training game as a research framework. *2019 11th International Conference on Virtual Worlds and Games for Serious Applications (VS-Games)*, 1-2. [OA](https://ieeexplore.ieee.org/abstract/document/8864551/)
+
+Sunnen, P., Arend, B., Heuser, S. et al. (2019). Designing collaborative scenarios on tangible tabletop interfaces-insights from the implementation of paper prototypes in the context of a multidisciplinary design workshop. *Proceedings of 17th European Conference on Computer-Supported Cooperative Work*. [OA](https://dl.eusset.eu/items/c2f327ee-d31b-490b-bf26-3f6a4fb24f7d)
+
+Maquil, V., Afkari, H., Moll, C. et al. (2019). Active tangibles for tabletop interaction based on the Kniwwelino prototyping platform.. [OA](https://dl.acm.org/doi/abs/10.1145/3340764.3344888)
+
+Flemming, R., Schmück, E., Mussack, D. et al. (2019). A generalizable performance evaluation model of driving games via risk-weighted trajectories. *Proceedings of The 12th International Conference on Educational Data Mining (EDM 2019)*, **548**, 551. [OA](https://www.researchgate.net/profile/Rory-Flemming/publication/335797750_A_generalizable_performance_evaluation_model_of_driving_games_via_risk-weighted_trajectories/links/5d7bd2baa6fdcc2f0f6dbad3/A-generalizable-performance-evaluation-model-of-driving-games-via-risk-weighted-trajectories.pdf)
+
+ANSARINIA, M., Mussack, D., Schrater, P. et al. (2019). A Multi-Objective Optimization Algorithm to Generate Unbiased Stimuli Sequences for Cognitive Tasks. *Bernstein Conference 2019*. [OA](https://orbilu.uni.lu/handle/10993/55224)
+
+Ansarinia, M., Mussack, D., Schrater, P. et al. (2019). A Formal Framework for Structured N-Back Stimuli Sequences. *Conference on Cognitive Computational Neuroscience*. [OA](https://ccneuro.org/2019/proceedings/0000794.pdf)
+

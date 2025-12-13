@@ -1,0 +1,43 @@
+---
+title: "Projects"
+---
+
+Our research is organized around several key projects that advance our understanding of cognitive science through digital technologies.
+
+## Current Projects
+
+### Behaverse
+
+Behaverse is the main project of the xcit research group. It is a collection of integrated projects and software systems aimed at accelerating, integrating, and scaling up cognitive science research. The initiative fosters scientific discoveries and innovation while promoting best practices and open science. 
+
+The project is organized into "galaxies," which are thematic collections of projects. These galaxies encompass a range of development stages, from fully operational systems to prototypes and internal tools. For more details, visit the [Behaverse website](https://behaverse.org/).
+
+
+
+
+
+### CERISE: green skills for sustainability
+CERISE aims to strengthen the capacity of European Higher Education Institutions (HEIs) to deliver courses and services that enhance and recognize green skills while fostering a green culture. The project focuses on two main objectives: supporting the development of higher education curricula to advance students' green skills and attitudes through digital technologies, and creating a technological tool to facilitate the recognition of green skills in the HE sector. 
+
+The project is funded by the European Union's Erasmus+ program and is coordinated by the University of Luxembourg, with partners including Web2Learn, the National Technical University of Athens, Université de Lorraine, the University of Information Technology and Management in Rzeszów, and Kaunas University of Technology. The implementation period is from February 2024 to May 2026. Learn more [here](https://cerise-green-skills.github.io/website/).
+
+
+
+
+### Collaboration Research with video games
+
+*Coming soon*
+
+
+### Cognitive sciences and Cybersecurity
+
+*Coming soon*
+
+
+### Research on Mental Health in Youth
+
+*Coming soon*
+
+
+
+

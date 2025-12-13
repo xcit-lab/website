@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+**/.DS_Store
+/.quarto/
+/.private/
+/git_ignored/
+/_girard/
+/_freeze/posts/
+/scripts/.venv/
+__pycache__/
+*.pyc
+.venv/

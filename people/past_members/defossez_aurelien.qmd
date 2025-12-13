@@ -1,0 +1,30 @@
+---
+title: "Aurélien Defossez"
+sortby: "Defossez, Aurélien"
+subtitle: "Game designer and developer"
+image: defossez_aurelien.jpg
+toc: false
+started: "June 2017"
+ended: "January 2021"
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+
+## Bio
+After graduating with honours from INSA Lyon — one of the best Science and Technology universities in Europe — Aurélien stepped up his game by working in several innovative and fast-growing tech startups in France. As a ludo-addict and experimentalist, he regularly participates in game jams and constantly designs and creates bite-sized video games, board games and web applications. He’s fascinated by Artificial Intelligence and developed artificial agents as well as two games specifically designed to be played by AI agents (for Cod’INSA, an AI contest). In 2013, he founded an independent game studio (Tabemasu Games) and released a fast-paced mobile game (Kawaii Killer).

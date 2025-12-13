@@ -1,0 +1,38 @@
+---
+title: "Hainan Yu"
+sortby: "Hainan, Yu"
+subtitle: "PhD Candidate"
+image: ../placeholder_orange.png
+toc: false
+started: "July 2025"
+ended: "Current"
+resources: 
+  - "cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Hi!
+
+
+I'm Hainan, a PhD student in Psychology under the supervision of Prof. Dr. Pedro Cardoso-Leite. My research focuses on human collaboration---its components, dynamics, and skills, and how we can observe and study it in practice. To support this, we are developing a framework designed to systematically analyze collaboration and building a proto-theory to better understand collaboration and its skills.
+
+
+A core part of our work involves using video games as research environments and tools. Drawing on our framework and applying game design methods, we develop games to test and refine our proto-theory. This approach allows us to dive deeply into collaboration in a controlled yet engaging setting. Our research brings together psychology, computer science, and game research, and I value its interdisciplinary nature.
+
+
+I have a background in data science, reinforcement learning, and game AI, and I’m particularly interested in how video games and technology can support learning and human interaction. In my spare time, I’m a game designer, developer, and music producer. I also enjoy exploring how video games convey emotions and create impact through storytelling and game mechanisms. I believe that through thoughtful design, games and technology can help us better understand ourselves, each other, and the world around us.

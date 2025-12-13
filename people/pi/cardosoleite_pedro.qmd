@@ -1,0 +1,49 @@
+---
+title: "Pedro Cardoso-Leite"
+sortby: "1"
+subtitle: "PI, Prof. Cognitive Sciences and Assessment"
+image: ../placeholder_teal.png
+started: "June 2017"
+toc: false
+resources: 
+  - "cardosoleite_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.xcit.org
+    - icon: file-earmark-text
+      text: vitae
+      href: ./people/pi/cardosoleite_cv.pdf
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=pIK4eZ0AAAAJ&hl
+    - icon: github
+      text: github
+      href: https://www.github.com/p15e
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Hi!
+
+I'm a cognitive scientist, experimental psychologist, data/tech/games enthusiast and tinkerer. I use an interdisciplinary, multi/mixed-method approach to design and leverage digital technologies--in particular, video games--to study the human mind and aim to improve people's lives. 
+
+I believe that as (cognitive) scientists we should contribute to solving major societal challenges, including education, cognitive and mental health, climate change and cybersecurity. And to have such an impact we need to improve how cognitive science is done, by supporting for instance the development, deployment and testing of behavioral interventions at scale. 
+
+
+
+I studied psychology and cognitive sciences and received my PhD in experimental psychology from Paris Descartes University (now named Université Paris Cité). As a postdoc, I was trained in brain imaging at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig. After that, I joined the University of Geneva to work with Daphne Bavelier on the impact of digital technologies, in particular video games, on cognitive abilities, learning and transfer. I'm now an associate Professor in Cognitive Sciences and Assessment in the Department of Behavioral and Cognitive Sciences at the University of Luxembourg. I'm also the head of the xCIT research group and of the Userlab. 

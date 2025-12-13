@@ -1,0 +1,11 @@
+[project]
+name = "xcit-website-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "requests>=2.32.5",
+    "scholarly>=1.7.11",
+]

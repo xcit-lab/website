@@ -1,0 +1,39 @@
+---
+title: "Sophie Doublet"
+sortby: "Doublet, Sophie"
+subtitle: "UX Researcher"
+image: ../placeholder_green.png
+toc: false
+started: "July 2025"
+ended: "Current"
+resources: 
+  - "cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Hi!
+
+I’m Sophie, a UX researcher at the University of Luxembourg. 
+I’m passionate about understanding how people think, feel, and interact with the world—particularly when it involves technology. My primary focus is to understand people’s need to design meaningful and ethical interactions.
+
+
+I use a variety of research methods—such as user testing, surveys, and interviews for the classical ones—to ensure the user’s voice is heard throughout the design process. 
+
+
+I enjoy discovering new fields. I’ve collaborated on a wide range of projects, including computer-based assessment (CBA), user-centric cybersecurity, digital art, game design, XR for off-highway machinery, sustainability… Every project offers a new opportunity to explore how design can impact people.
