@@ -11,7 +11,7 @@ The UserLab is part of the [Epsylon](https://www.uni.lu/fhse-en/facilities/epsyl
 
 By combining state-of-the-art technology in a welcoming environment, the UserLab supports a rich set of empirical approaches (e.g., interviews, user testing) and data collection methods (e.g., video recording, eye and movement tracking, physiological recordings). The UserLab therefore allows us to gain a very rich and detailed understanding of a situation, phenomenon, or user experience—albeit on a rather small scale.
 
-![](photos/UserLab_2.jpg)
+![](photos/UserLab.jpg)
 
 ### The Behaverse-Lab
 
